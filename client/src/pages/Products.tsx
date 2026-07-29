@@ -5,7 +5,7 @@ import {
   HeroPanel,
   SideBox,
   Box,
-} from "@/components/Layout";
+} from "../components/Layout";
 import { Link } from "wouter";
 
 export default function Products() {
