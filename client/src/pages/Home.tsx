@@ -6,7 +6,7 @@ import {
   FeatureBox,
   SideBox,
   Box,
-} from "@/components/Layout";
+} from "../components/Layout";
 
 export default function Home() {
   return (
