@@ -5,7 +5,7 @@ import {
   HeroPanel,
   SideBox,
   Box,
-} from "@/components/Layout";
+} from "../components/Layout";
 
 export default function Download() {
   return (
